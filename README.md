@@ -1,2 +1,2 @@
-# assignments-AI0072
+# assignments-HAI0072
 test repo for git commands demonstration
